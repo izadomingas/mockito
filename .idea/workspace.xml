@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb2f25ad-3514-4aea-a127-fda9539fd5b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/ApiDosCorreios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/CadastrarPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/DadosLocalizacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/EnviarMensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/Formato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/GeradorDeNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/Mensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/PlataformaDeEnvio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dio/mockito/exemplos/ServicoEnvioEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/dio/mockito/exemplos/ApiDosCorreiosTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/dio/mockito/exemplos/CadastrarPessoaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/dio/mockito/exemplos/ContaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/dio/mockito/exemplos/EnviarMensagemTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/dio/mockito/exemplos/GeradorDeNumerosTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/dio/mockito/exemplos/PessoaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/dio/mockito/exemplos/PlataformaDeEnvioTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/dio/mockito/exemplos/ServicoEnvioEmailTeste.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2L0FEaFH7rQ8XD9shar32NnESQf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="me.dio.mockito.exemplos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.me.dio.mockito.exemplos in mockito">
+    <configuration name="CadastrarPessoaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dio.mockito.exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dio.mockito.exemplos" />
+      <option name="MAIN_CLASS_NAME" value="me.dio.mockito.exemplos.CadastrarPessoaTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dio.mockito.exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dio.mockito.exemplos" />
+      <option name="MAIN_CLASS_NAME" value="me.dio.mockito.exemplos.ListaTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaTeste.adicionarItemNaLista" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dio.mockito.exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dio.mockito.exemplos" />
+      <option name="MAIN_CLASS_NAME" value="me.dio.mockito.exemplos.ListaTeste" />
+      <option name="METHOD_NAME" value="adicionarItemNaLista" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PessoaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dio.mockito.exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dio.mockito.exemplos" />
+      <option name="MAIN_CLASS_NAME" value="me.dio.mockito.exemplos.PessoaTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="me.dio.mockito.exemplos in mockito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dio.mockito.exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dio.mockito.exemplos" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.me.dio.mockito.exemplos in mockito" />
+        <item itemvalue="JUnit.PessoaTeste" />
+        <item itemvalue="JUnit.CadastrarPessoaTeste" />
+        <item itemvalue="JUnit.ListaTeste.adicionarItemNaLista" />
+        <item itemvalue="JUnit.ListaTeste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb2f25ad-3514-4aea-a127-fda9539fd5b0" name="Changes" comment="" />
+      <created>1674999984327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674999984327</updated>
+    </task>
+    <servers />
+  </component>
+</project>
